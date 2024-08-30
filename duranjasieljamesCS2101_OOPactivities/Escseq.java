@@ -1,3 +1,4 @@
+package duranjasieljamesCS2101_OOPactivities;
 public class Escseq {
     public static void main(String args[])
     {

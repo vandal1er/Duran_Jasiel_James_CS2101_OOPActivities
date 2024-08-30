@@ -1,3 +1,4 @@
+package duranjasieljamesCS2101_OOPactivities;
 import java.util.Scanner;
 
 public class Welcome {
