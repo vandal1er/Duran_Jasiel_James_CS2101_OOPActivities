@@ -1,14 +1,14 @@
 
 class Menu
 {
-    private string name = "Menu";
+    String name = "Menu";
     
     public void Initialize()
     {
         System.out.println("Menu");
     }
     
-    public void Rename(string n)
+    public void Rename(String n)
     {
         name = n;
     }
@@ -22,8 +22,10 @@ class Menu
 public class Interface{
   public static void main(String args[]) {
 
-    
+    Menu menu1 = new Menu();
+
     menu1.Initialize();
+    
   }
 }
 
