@@ -19,6 +19,6 @@ public class GettingGreater
 		System.out.println(a + " : " + (int)a);
 		System.out.println(b + " : " + (int)b);
 		
-		scanner.close()
+		input.close()
 	}
 }
