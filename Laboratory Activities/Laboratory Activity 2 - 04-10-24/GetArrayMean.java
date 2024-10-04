@@ -31,7 +31,8 @@ public class GetArrayMean {
 			arr[i] = input.nextFloat();
 		}
 		
-		System.out.println("Mean of array is: " +getArrayMean(arr));
-		input.close();
+		System.out.print( "Mean of array is: ");
+		
+		System.out.printf("%.2f",getArrayMean(arr));
 	}
 }
