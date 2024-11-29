@@ -1,22 +1,9 @@
-public class Shape {
+public interface Shape {
 
-public Shape()
-{
+    public double getArea();
 
-}
+    public double getPerimeter();
 
-    public double getArea()
-    {
-        return 0;
-    }
+    public void printShapeType();
 
-    public double getPerimeter()
-    {
-        return 0;
-    }
-
-    public void printShapeType()
-    {
-        
-    }
 }
