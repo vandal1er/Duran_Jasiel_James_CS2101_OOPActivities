@@ -36,6 +36,43 @@ This repository contains various exercises designed to provide hands-on experien
 ### Other Exercises
 Various light exercises covering topics like Encapsulation, Escape Sequences, and Basic Input/Output operations.
 
+## Running CS 211 Activities
+
+### Prerequisites
+- **Java Development Kit (JDK)** is required. Install it from [here](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+- Verify Java is installed by running:
+  ```bash
+  java -version
+  ```
+
+### 1. Clone the Repository
+Clone this repository to your local machine:
+```bash
+git clone https://github.com/vandal1er/Duran_Jasiel_James_CS2101_OOPActivities.git
+```
+
+### 2. Navigate to the Project Directory
+```bash
+cd Duran_Jasiel_James_CS2101_OOPActivities
+```
+
+### 3. Compile the Java Files
+To compile the files, run:
+```bash
+javac *.java
+```
+
+### 4. Run the Programs
+To run a program *(e.g., **GettingGreater.java**)*, use:
+```bash
+java GettingGreater
+```
+
+### 5. Follow the Prompts
+Some programs require user input. Follow the on-screen instructions.
+
+---
+
 ---
 ## License
 This repository is for educational purposes. You may freely use it for learning and coursework.
