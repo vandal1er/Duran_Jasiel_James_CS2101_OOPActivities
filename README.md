@@ -16,7 +16,7 @@ This repository contains various exercises designed to provide hands-on experien
 
 ## Exercises and Activities
 ### 1. Introduction: Input and Output
-**GettingGreater.java**: A simple program that takes two characters as input and displays the character with the higher ASCII value.
+[**GettingGreater.java**](https://github.com/vandal1er/Duran_Jasiel_James_CS2101_OOPActivities/blob/main/Laboratory%20Activities/Laboratory%20Activity%201%20-%2006-09-24/GettingGreater.java): A simple program that takes two characters as input and displays the character with the higher ASCII value.
 
 **GettingInputs.java**: A program that takes song details *(e.g., song name, artist)* and prints them with style✨.
 
