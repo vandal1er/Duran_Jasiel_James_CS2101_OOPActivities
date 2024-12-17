@@ -27,7 +27,7 @@ This repository contains various exercises designed to provide hands-on experien
 **MultiplicationTable.java**: A program that asks for a table size and prints the multiplication table for that size.
 
 
-#### 3 and 4. Polymorphism, Abstraction, and Inheritance
+#### 3 and 4. The Principles of OOP
 **'Shapes'**: A multi-file program highlighting Abstraction and Polymorphism. This program uses an interface to declare different shape types *(e.g., Triangle, Rectangle)* and allows users to interact with them using a common entry-point.
 
 **'Artist Demo'**: Another multi-file program focusing on Encapsulation and Inheritance. It shows how generalized objects *(e.g., an Artist class)* can be built on upon by specialized objects *(e.g., Painter, Writer)* using inheritance, and encapsulating details like the artist’s name, style, and artwork.
