@@ -2,6 +2,8 @@
 ---
 This repository contains a collection of exercises and graded activities from the CS 211 Object-Oriented Programming course. The exercises aim to teach fundamental OOP concepts, including Input/Output, Functions, Arrays, Flow Control, Polymorphism, Abstraction, Inheritance, and Encapsulation.
 ---
+
+
 ## Course Overview
 __CS 211 introduces students to core concepts of Object-Oriented Programming, focusing on:__
 - Input and Output
@@ -13,6 +15,7 @@ __CS 211 introduces students to core concepts of Object-Oriented Programming, fo
 - Encapsulation
 
 This repository contains various exercises designed to provide hands-on experience with these principles.
+
 
 ## Exercises and Activities
 ### 1. Introduction: Input and Output
@@ -35,6 +38,8 @@ This repository contains various exercises designed to provide hands-on experien
 
 ### Other Exercises
 Various light exercises covering topics like Encapsulation, Escape Sequences, and Basic Input/Output operations.
+
+
 
 ## Running CS 211 Activities
 
