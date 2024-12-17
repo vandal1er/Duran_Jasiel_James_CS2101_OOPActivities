@@ -77,8 +77,6 @@ java GettingGreater
 Some programs require user input. Follow the on-screen instructions.
 
 ---
-
----
 ## License
 This repository is for educational purposes. You may freely use it for learning and coursework.
 
