@@ -39,3 +39,6 @@ Various light exercises covering topics like Encapsulation, Escape Sequences, an
 ---
 ## License
 This repository is for educational purposes. You may freely use it for learning and coursework.
+
+---
+Special thanks to **Ms. Fatima Marie Agdon, MSCS**, [[🔗]](https://github.com/marieemoiselle) for guiding us through the course full of excitement and color.
